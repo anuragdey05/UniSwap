@@ -1,0 +1,40 @@
+:root {
+  color-scheme: light;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f5f4ef;
+  color: #171713;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.welcome {
+  display: grid;
+  min-height: 100vh;
+  place-content: center;
+  padding: 2rem;
+  text-align: center;
+}
+
+.welcome h1 {
+  margin: 0;
+  font-size: clamp(4rem, 14vw, 9rem);
+  letter-spacing: -0.08em;
+}
+
+.welcome p {
+  color: #5e5e55;
+}
+
+.welcome .eyebrow {
+  color: #087a54;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
