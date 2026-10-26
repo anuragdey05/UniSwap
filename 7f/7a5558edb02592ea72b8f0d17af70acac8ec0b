@@ -1,0 +1,19 @@
+.gitignore
+  s_b97fb49f266947::t_cea70819fd0f48 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7f7a5558edb02592ea72b8f0d17af70acac8ec0b",
+  "prompts": {},
+  "sessions": {
+    "s_b97fb49f266947": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1734f-92d4-7ca0-b588-322fe9c28f08",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Anurag Dey <anuragdey2k@gmail.com>"
+    }
+  }
+}
