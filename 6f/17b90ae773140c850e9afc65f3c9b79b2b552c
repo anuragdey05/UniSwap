@@ -1,0 +1,39 @@
+.env.example
+  s_b97fb49f266947::t_7e5147222716ff 1-5
+lib/supabase/client.ts
+  s_b97fb49f266947::t_7e5147222716ff 1-9
+proxy.ts
+  s_b97fb49f266947::t_7e5147222716ff 1-10
+lib/supabase/proxy.ts
+  s_b97fb49f266947::t_7e5147222716ff 1-27
+supabase/seed.sql
+  s_b97fb49f266947::t_c7bfd5ca67f905 1-20
+package.json
+  s_b97fb49f266947::t_f58b500d520776 13-14
+README.md
+  s_b97fb49f266947::t_c7bfd5ca67f905 1-40
+lib/supabase/server.ts
+  s_b97fb49f266947::t_7e5147222716ff 1-28
+supabase/migrations/202610260001_marketplace_core.sql
+  s_b97fb49f266947::t_142296d1314693 1-4,6-269,273-307,309-310,315-395,441-475,478-586
+  s_b97fb49f266947::t_9a8759461a7602 5,308,311-314,396-440,476-477
+  s_b97fb49f266947::t_e8f1c4ae6dff5f 270-272
+package-lock.json
+  s_b97fb49f266947::t_5b7c112bea3838 12-13,684-787,865-877,904-912
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6f17b90ae773140c850e9afc65f3c9b79b2b552c",
+  "prompts": {},
+  "sessions": {
+    "s_b97fb49f266947": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1734f-92d4-7ca0-b588-322fe9c28f08",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Anurag Dey <anuragdey2k@gmail.com>"
+    }
+  }
+}
