@@ -1,0 +1,44 @@
+app/globals.css
+  s_b97fb49f266947::t_b7f6782c2b2822 2-12,15-26,29-36,38-98,100-107,110-134,137-139
+app/page.tsx
+  s_b97fb49f266947::t_a659e5c4200856 1-2,4
+components/marketplace-home.tsx
+  s_b97fb49f266947::t_a701cc0b5ba9e2 92
+  s_b97fb49f266947::t_24e36833a90144 8,130
+  s_b97fb49f266947::t_a659e5c4200856 1-7,9-91,93-129,131-164
+next.config.ts
+  s_b97fb49f266947::t_24e36833a90144 5-13
+app/layout.tsx
+  s_b97fb49f266947::t_a659e5c4200856 2,13
+  s_b97fb49f266947::t_94b0f86ae67f83 6
+AGENTS.md
+  s_43383315c82abb::t_4c2a6ec2790850 1-9
+package.json
+  s_b97fb49f266947::t_00c0bb6f734f8f 12-13
+package-lock.json
+  s_43383315c82abb::t_a2ac16f5ea8af8 11-12,669-681,776-784
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "303f116a57318b3ca95f49404078b8b4665a9417",
+  "prompts": {},
+  "sessions": {
+    "s_43383315c82abb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a1734f-92d4-7ca0-b588-322fe9c28f08",
+        "model": "unknown"
+      },
+      "human_author": "Anurag Dey <anuragdey2k@gmail.com>"
+    },
+    "s_b97fb49f266947": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1734f-92d4-7ca0-b588-322fe9c28f08",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Anurag Dey <anuragdey2k@gmail.com>"
+    }
+  }
+}
