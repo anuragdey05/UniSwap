@@ -1,0 +1,31 @@
+app/page.tsx
+  s_b97fb49f266947::t_d1890644ca0c9a 2-11
+app/login/auth-panel.tsx
+  s_b97fb49f266947::t_d1890644ca0c9a 1-47
+app/globals.css
+  s_b97fb49f266947::t_9d0d1d19f1ab84 100-126,135-139,167-171
+README.md
+  s_b97fb49f266947::t_4748fd956edb15 36
+lib/supabase/config.ts
+  s_b97fb49f266947::t_d1890644ca0c9a 1-7
+app/login/page.tsx
+  s_b97fb49f266947::t_d1890644ca0c9a 1-28
+app/login/actions.ts
+  s_b97fb49f266947::t_d1890644ca0c9a 1-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9cd793c00002f9f7fb8e5f7a7b3947deeda7b53e",
+  "prompts": {},
+  "sessions": {
+    "s_b97fb49f266947": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1734f-92d4-7ca0-b588-322fe9c28f08",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Anurag Dey <anuragdey2k@gmail.com>"
+    }
+  }
+}
