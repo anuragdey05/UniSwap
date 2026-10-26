@@ -33,7 +33,7 @@ Run `npm run check` and `npm run build` before committing.
 
 - [x] Application scaffold and responsive discovery experience
 - [x] Core database, tenant isolation, and proxy bidding
-- [ ] College-email OTP authentication and onboarding
+- [x] College-email OTP authentication and onboarding
 - [ ] Listing creation, image upload, search, and saved items
 - [ ] Offers, Buy Now, transaction handoff, and reviews
 - [ ] Realtime chat, notifications, reporting, and student-admin tools
