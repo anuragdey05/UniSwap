@@ -1,0 +1,19 @@
+app/globals.css
+  s_b97fb49f266947::t_720fdd87b60929 61,84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a8c2e925c764a3bcd456f2e0e209b1cca4e9126f",
+  "prompts": {},
+  "sessions": {
+    "s_b97fb49f266947": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1734f-92d4-7ca0-b588-322fe9c28f08",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Anurag Dey <anuragdey2k@gmail.com>"
+    }
+  }
+}
